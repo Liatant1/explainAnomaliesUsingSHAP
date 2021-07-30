@@ -1,1 +1,0 @@
-install given requirements.txt file to run the code
