@@ -7,7 +7,6 @@ Please note that this project runs using a **Python 3.7** interpreter. To begin 
    ```
    https://github.com/Liatant1/explainAnomaliesUsingSHAP.git
    ```
-   ```
 2. Install all required dependencies:
     ```
     pip install -r requirements.txt
